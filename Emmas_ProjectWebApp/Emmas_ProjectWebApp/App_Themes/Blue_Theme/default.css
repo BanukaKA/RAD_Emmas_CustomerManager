@@ -1,0 +1,71 @@
+﻿body {
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightblue;
+    text-align: center;
+}
+
+main {
+    padding: 10px;
+}
+
+nav {
+    background-color: darkblue;
+    padding: 5px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li a {
+    color: #F1FAEE;
+    font-size: 30px;
+    width: 120px;
+    display: inline-block;
+    padding: 2px;
+    border-radius: 4px;
+}
+
+li {
+    display: inline;
+    padding-left: 2px;
+    column-width: 20px;
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+}
+
+li a:hover {
+    background-color: lightcyan;
+    color: darkblue;
+}
+
+footer {
+    background-color: darkblue;
+    text-align: center;
+    color: white;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    padding: 20px;
+    margin: 5px auto 0 auto;
+}
+
+.ButtonDefault {
+    color: Blue;
+    background-color: #CCFFFF;
+    border-color: #0000CC;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.ButtonSocialMedia {
+    color: White;
+    background-color: Blue;
+    border-color: #0000CC;
+    border-width: 1px;
+    border-style: solid;
+}
