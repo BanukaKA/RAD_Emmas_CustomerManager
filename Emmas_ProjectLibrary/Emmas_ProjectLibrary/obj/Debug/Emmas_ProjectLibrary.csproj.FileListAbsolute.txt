@@ -1,0 +1,17 @@
+C:\Users\Banuka Ambegoda\Desktop\Emmas_ProjectLibrary\Emmas_ProjectLibrary\bin\Debug\Emmas.mdf
+C:\Users\Banuka Ambegoda\Desktop\Emmas_ProjectLibrary\Emmas_ProjectLibrary\bin\Debug\Emmas_log.ldf
+C:\Users\Banuka Ambegoda\Desktop\Emmas_ProjectLibrary\Emmas_ProjectLibrary\bin\Debug\Emmas_ProjectLibrary.dll.config
+C:\Users\Banuka Ambegoda\Desktop\Emmas_ProjectLibrary\Emmas_ProjectLibrary\bin\Debug\Emmas_ProjectLibrary.dll
+C:\Users\Banuka Ambegoda\Desktop\Emmas_ProjectLibrary\Emmas_ProjectLibrary\bin\Debug\Emmas_ProjectLibrary.pdb
+C:\Users\Banuka Ambegoda\Desktop\Emmas_ProjectLibrary\Emmas_ProjectLibrary\obj\Debug\Emmas_ProjectLibrary.csproj.AssemblyReference.cache
+C:\Users\Banuka Ambegoda\Desktop\Emmas_ProjectLibrary\Emmas_ProjectLibrary\obj\Debug\Emmas_ProjectLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Banuka Ambegoda\Desktop\Emmas_ProjectLibrary\Emmas_ProjectLibrary\obj\Debug\Emmas_ProjectLibrary.dll
+C:\Users\Banuka Ambegoda\Desktop\Emmas_ProjectLibrary\Emmas_ProjectLibrary\obj\Debug\Emmas_ProjectLibrary.pdb
+C:\Users\Banuka Ambegoda\Desktop\RAD_FInal_Project_Banuka_Kumara_Ambegoda\Emmas_ProjectLibrary\Emmas_ProjectLibrary\bin\Debug\Emmas.mdf
+C:\Users\Banuka Ambegoda\Desktop\RAD_FInal_Project_Banuka_Kumara_Ambegoda\Emmas_ProjectLibrary\Emmas_ProjectLibrary\bin\Debug\Emmas_log.ldf
+C:\Users\Banuka Ambegoda\Desktop\RAD_FInal_Project_Banuka_Kumara_Ambegoda\Emmas_ProjectLibrary\Emmas_ProjectLibrary\bin\Debug\Emmas_ProjectLibrary.dll.config
+C:\Users\Banuka Ambegoda\Desktop\RAD_FInal_Project_Banuka_Kumara_Ambegoda\Emmas_ProjectLibrary\Emmas_ProjectLibrary\bin\Debug\Emmas_ProjectLibrary.dll
+C:\Users\Banuka Ambegoda\Desktop\RAD_FInal_Project_Banuka_Kumara_Ambegoda\Emmas_ProjectLibrary\Emmas_ProjectLibrary\bin\Debug\Emmas_ProjectLibrary.pdb
+C:\Users\Banuka Ambegoda\Desktop\RAD_FInal_Project_Banuka_Kumara_Ambegoda\Emmas_ProjectLibrary\Emmas_ProjectLibrary\obj\Debug\Emmas_ProjectLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Banuka Ambegoda\Desktop\RAD_FInal_Project_Banuka_Kumara_Ambegoda\Emmas_ProjectLibrary\Emmas_ProjectLibrary\obj\Debug\Emmas_ProjectLibrary.dll
+C:\Users\Banuka Ambegoda\Desktop\RAD_FInal_Project_Banuka_Kumara_Ambegoda\Emmas_ProjectLibrary\Emmas_ProjectLibrary\obj\Debug\Emmas_ProjectLibrary.pdb
